@@ -1,2 +1,2 @@
-# ACAGN-tensorflow
-Implementation of  《Adaptive Community Aware Graph Network for Item Recommendation》（ACAGN）
+# CANIRec-tensorflow
+Implementation of  《Adaptive Community Aware Graph Neural Network for Item Recommendation》（CANIrec）
